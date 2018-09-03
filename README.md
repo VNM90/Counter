@@ -1,1 +1,1 @@
-Simple counter
+Simple counter in javascript
